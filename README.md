@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tableau, SQL, Python**
 
-- 👨‍💻 All of my projects are available at **the bottom of the page in my pinned repos**
+- 👨‍💻 All of my projects are available **below in the "Pinned" repo section**
 
 - 💬 Ask me about **living in Japan!**
 
