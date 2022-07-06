@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **living in Japan!**
 
-- 📫 How to reach me **keenan.cooper@mail.mcgill.ca**
+- 📫 How to reach me **keenan.cooper0529@gmail.com**
 
 - 📄 Check out my qualifications and experience in my **[resume](https://github.com/keenan-cooper/resume/blob/main/Cooper_CV_220111.pdf)**
 
