@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **keenan.cooper0529@gmail.com**
 
-- 📄 Check out my qualifications and experience in my **[resume](https://github.com/keenan-cooper/resume/blob/main/Cooper_CV_220111.pdf)**
+- 📄 Check out my qualifications and experience in my **[resume](https://github.com/keenan-cooper/resume/blob/main/Cooper_resume_DA_220714.pdf)**
 
 - ⚡ Fun fact **I am fluent in Japanese and I'm a new father! 日本語ペラペラの新しいパパです！**
 
